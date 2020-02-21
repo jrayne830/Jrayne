@@ -1,0 +1,63 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet"  href="../style/home.css">
+ 
+</head>
+<title> Rex cajes </title>
+
+<body>
+   
+
+ <div class= "border">
+  <li><a class="" href="home.html">Home</a></li>
+  <li><a class="one" href="shop.html">Shop</a></li>
+  <li><a class="one" href="promo.html">Promo</a></li>
+  <li><a class="one" href="contact.html">Contact</a></li>
+  <li><a class="one" href="about.html">About</a></li>
+  </div>
+  <h1>
+  <img class="logo" src="../logo/ramon.png" width="40" height="40">
+
+  
+  <br></br>
+  
+
+   <div class="footer">
+       <div class="footertitle">
+         <label>Contact Us</label>
+       </div>
+      <hr width="900"/>
+       <div class="details">
+
+        <div class="logo1">
+             <span>Mobile: (0945)2343 123-Globe / (0943)235 4534-SMART</br></span>
+        </div>
+         <label class="Two">Address: Brgy:Muzon CSJDM BULACAN</label></br>
+
+           <label class="three">Email: SciexiesOnlineShop@gmail.com.ph</label></br>
+
+           <label class="four">Website: www.SciexiesOnlineShop.com</label></br>
+
+          <label class="five">Landline: (+789) 567-3454 </label></br>
+
+       </div>
+       <hr width="500"/>
+       <div class="copyright">
+           <label>@Copyright 2018 | SciexiesOnlineShop | All right Reserve | Project</label>
+       </div>
+        
+      </div>
+
+ 
+ 
+
+
+
+<script type="text/javascript" src = "camp.js"></script>
+
+</body>
+</html>
+
